@@ -13,7 +13,7 @@ So that's a little about me! I'm always learning 📚, and I'm excited to connec
 
 ### Support my Work
 <br/>
-<a href="https://www.buymeacoffee.com/xavierbcodM?new=1"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
+<a href="https://www.buymeacoffee.com/xavierbcodM"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
 
 
 <br />
