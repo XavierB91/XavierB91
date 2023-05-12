@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 🤠
 
+Hey there, ✌️ welcome to my profile! My name is Xavier Barker, and I'm a Full Stack Developer who knows various computer languages. I'm currently interning at LEARN academy in sunny San Diego, California, and I'm always striving to be the best software programmer I can be! 
+
+💻 I'm super interested in all things technology, software, and video game development, and how it impacts our world and society. It's crazy to think about how everything we use these days, from our phones to our microwaves, is powered by software in some form, and I just can't get enough of it. 
+
+Fun fact about me - I used to be a Hospital corpsman in the USN and am currently an active Martial Arts instructor. Those experiences have taught me a lot about being patient with myself and others when working on objectives and having a keen attention to detail. I think those same skills and attitudes serve me well in the coding environment. 
+
+🥋 When I'm not buried in code or working on a new project, you can find me doing some of my favorite things. I love listening to music 🎧, watching anime 🍿, and participating in Martial Arts. I've been practicing Martial Arts since I was seven and have spent the last nine years competing and coaching. 
+
+So that's a little about me! I'm always learning 📚, and I'm excited to connect with you here on GitHub. Thanks for stopping by!
 <!--
 **XavierB91/XavierB91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
