@@ -1,6 +1,6 @@
 ### Hi there 🤠
 
-Hey there, ✌️ welcome to my profile! My name is Xavier Barker, and I'm a Full Stack Developer who knows various computer languages. I'm currently interning at LEARN academy in sunny San Diego, California, and I'm always striving to be the best software programmer I can be! 
+Hey there, ✌️ welcome to my profile! My name is Xavier Barker, and I'm a Full Stack Developer who knows various computer languages.  I've graduated from LEARN Academy Fullstack Coding Bootcamp. I'm searching for full stack developer work in sunny San Diego, California, and I'm always striving to be the best software programmer I can be! 
 
 💻 I'm super interested in all things technology, software, and video game development, and how it impacts our world and society. It's crazy to think about how everything we use these days, from our phones to our microwaves, is powered by software in some form, and I just can't get enough of it. 
 
